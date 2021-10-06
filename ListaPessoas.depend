@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1633548335 source:d:\programacao\projetos c\listapessoas\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
+1633547069 d:\programacao\projetos c\listapessoas\strlista.h
+
+1633548529 source:d:\programacao\projetos c\listapessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
+1633551876 source:c:\users\dione _pc\downloads\listapessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
+1633550955 c:\users\dione _pc\downloads\listapessoas\strlista.h
+
+1633551447 source:c:\users\dione _pc\downloads\listapessoas\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
+1633551876 source:c:\users\dione _pc\onedrive\Área de trabalho\listapessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
+1633550955 c:\users\dione _pc\onedrive\Área de trabalho\listapessoas\strlista.h
+
+1633551447 source:c:\users\dione _pc\onedrive\Área de trabalho\listapessoas\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
+1633551876 source:c:\users\dione _pc\downloads\listapessoas2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
+1633550955 c:\users\dione _pc\downloads\listapessoas2\strlista.h
+
+1633551447 source:c:\users\dione _pc\downloads\listapessoas2\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
