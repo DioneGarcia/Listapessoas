@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1633539703 source:d:\programacao\projetos c\listapessoas\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
+1633539702 d:\programacao\projetos c\listapessoas\strlista.h
+
+1633539496 source:d:\programacao\projetos c\listapessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
+1633539703 source:c:\users\dione _pc\downloads\listapessoas\strlista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StrLista.h"
+
+1633539702 c:\users\dione _pc\downloads\listapessoas\strlista.h
+
+1633540012 source:c:\users\dione _pc\downloads\listapessoas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"StrLista.h"
+
