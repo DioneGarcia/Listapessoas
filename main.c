@@ -19,7 +19,6 @@ int main()
         }
     }
     noCabeca->idade = NULL;
-    //noCabeca->nome = NULL;
 
     listaPessoas->quantidadePessoas = 0;
 
